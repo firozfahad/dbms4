@@ -9,4 +9,8 @@
    FROM Customers
    WHERE Country='Spain' AND Customer LIKE 'G%' ;```
 
+
+
+   Write an SQL statement to find the titles of books authored by an author having first name as ”Joh Paul” and last name as ”Mueller”.</br>
+
    
